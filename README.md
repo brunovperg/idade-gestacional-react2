@@ -4,6 +4,8 @@
 [![Vite](https://img.shields.io/badge/Vite-4.4-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Sass](https://img.shields.io/badge/Sass-Styles-CC6699?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![Healthcare Tech](https://img.shields.io/badge/Healthcare-Clinical%20Tools-00A86B?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-success?style=for-the-badge&logo=vercel)](https://calculadora-idade-gestacional.vercel.app)
+
 
 A modern, responsive healthcare application built with **React** and **Vite**, engineered to perform clinical calculations for **Gestational Age (GA)** and **Estimated Date of Delivery (EDD / DPP)** based on obstetric guidelines.
 
